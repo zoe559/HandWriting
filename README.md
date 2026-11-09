@@ -22,13 +22,22 @@
 
 ![学习中心 - 导入新卷](docs/preview-center.png)
 
+## 你需要什么 / Requirements
+
+- **Node.js 20+**（应用零依赖，不需要 `npm install`）
+- **Chromium 浏览器**（Edge / Chrome 推荐）；手绘板/触控笔可选，鼠标也能写
+- **批改需要**：一个能读本地文件的多模态 AI agent（DeepSeek Harness、Claude Code、Cursor 等）；应用本身不调用大模型
+- **可选**：Python 3 + Pillow（只有 `tools/crop.py` 裁图工具需要）
+
+没有 AI agent 也能做题、提交、查看页面和按 `data/keys.json` 自检，只是不会自动生成批改报告。
+
+## 下载 / Download
+
+- **git clone**：`git clone https://github.com/zoe559/HandWriting.git`
+- **不带 git**：GitHub 页面右上角 **Code → Download ZIP**
+- **Release**：https://github.com/zoe559/HandWriting/releases/tag/v1.0.0（源码 zip）
+
 ## 快速开始
-
-Requirements:
-
-- Node.js **20+**（应用本身零依赖，不需要 `npm install`）
-- Chromium-based browser（Edge / Chrome 推荐）
-- 可选：Python + Pillow（只有 `tools/crop.py` 裁图工具需要）
 
 1. 启动服务：
 
