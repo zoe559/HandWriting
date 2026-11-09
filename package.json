@@ -1,0 +1,22 @@
+{
+  "name": "cet6-handwriting-practice",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first CET-6 handwriting practice worksheet with a zero-dependency Node server and AI-assisted grading.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs --open",
+    "check": "node tools/check.mjs"
+  },
+  "keywords": [
+    "cet6",
+    "handwriting",
+    "canvas",
+    "education",
+    "local-first"
+  ]
+}

@@ -1,0 +1,18 @@
+# Local runtime data — never commit handwriting, reports, crops or the port file.
+submissions/*
+!submissions/.gitkeep
+feedback/*
+!feedback/.gitkeep
+tmp/*
+!tmp/.gitkeep
+.port
+
+# Local environment
+node_modules/
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

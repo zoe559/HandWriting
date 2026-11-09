@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "papers": [
+    {
+      "id": "mock-a",
+      "title": "CET-6 模拟卷 A · 文字部分",
+      "subtitle": "原创仿真题 · 不含听力",
+      "durationMinutes": 95,
+      "sections": [
+        {
+          "id": "writing",
+          "heading": "Part I  Writing",
+          "instructions": "Directions: For this part, you are allowed 30 minutes to write an essay on why deep reading still matters in a distracted age. Your essay should explain the benefits of sustained reading and suggest practical ways for students to protect the habit. You should write at least 150 words but no more than 200 words.",
+          "blocks": [
+            {
+              "type": "prompt",
+              "text": "Topic: Deep reading in a distracted age. Consider the effects of constant notifications on attention, and describe two or three concrete habits that can help students read with focus."
+            },
+            {
+              "type": "answerLines",
+              "count": 16,
+              "label": "Writing"
+            }
+          ]
+        },
+        {
+          "id": "matching",
+          "heading": "Part II  Information Matching",
+          "instructions": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each paragraph is lettered. Identify the paragraph from which the information is derived. You may choose a paragraph more than once.",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "label": "A",
+              "text": "For much of the twentieth century, city planners treated parks as decoration—pleasant extras to be added after roads, housing and shops were in place. That view is now changing. Researchers and engineers increasingly describe urban green space as infrastructure, as essential as pipes and power lines. Trees and parks cool streets, absorb rainwater and give crowded neighborhoods room to breathe. The question is no longer whether cities can afford green space, but how they can plan it fairly."
+            },
+            {
+              "type": "paragraph",
+              "label": "B",
+              "text": "A growing body of research links access to green space with better mental health. People who live within a short walk of a park report lower levels of stress, anxiety and loneliness, and higher levels of life satisfaction. The effect appears even when income and education are taken into account. Some studies suggest that simply seeing trees from a window can help hospital patients recover faster, although the evidence for such effects is not yet conclusive."
+            },
+            {
+              "type": "paragraph",
+              "label": "C",
+              "text": "Parks also make it easier to be active. A well-used neighborhood park offers space for walking, jogging, cycling and informal games, often at little or no cost. In cities where gyms are expensive and streets are busy, free outdoor space can be the difference between an active life and a sedentary one. Studies in several countries have found that people who live near safe, attractive green spaces are more likely to meet basic exercise guidelines."
+            },
+            {
+              "type": "paragraph",
+              "label": "D",
+              "text": "As cities heat up, trees have become a practical tool for cooling. Shade lowers surface temperatures, and evapotranspiration—the process by which leaves release water vapor—can make a street feel several degrees cooler. In neighborhoods with little tree cover, temperatures can be far higher than in leafy areas nearby. Planting trees is therefore not only beautification; it is a public-health measure during heat waves."
+            },
+            {
+              "type": "paragraph",
+              "label": "E",
+              "text": "Green spaces can also improve air quality. Leaves and branches capture dust and some pollutants, while vegetation can reduce the urban heat island effect that makes smog worse. The benefits depend on the type and location of plants, and trees cannot solve air pollution alone. Still, a well-designed green corridor can complement efforts to cut traffic emissions, especially when it is combined with cleaner transport."
+            },
+            {
+              "type": "paragraph",
+              "label": "F",
+              "text": "Flooding is another reason cities are investing in green infrastructure. Unlike concrete, soil and plants absorb rainwater, slowing the rush into drains during heavy storms. Parks, wetlands and planted roofs can store water and reduce the risk of flash floods. Engineers call this approach \"sponge city\" planning: instead of trying to channel water away as fast as possible, the city holds it, uses it and lets it soak away."
+            },
+            {
+              "type": "paragraph",
+              "label": "G",
+              "text": "Urban green spaces matter for wildlife too. A single park may be small, but a network of gardens, riverbanks and street trees can form corridors that allow birds, insects and small mammals to move through the city. Even modest patches of native plants can support pollinators such as bees and butterflies. Biodiversity makes cities more resilient, because a richer web of species is better able to cope with disease and climate stress."
+            },
+            {
+              "type": "paragraph",
+              "label": "H",
+              "text": "Parks are social places as well. Community gardens, playgrounds and shaded benches bring together people who might otherwise never meet. Neighborhood events, from weekend markets to outdoor films, can strengthen trust and a sense of belonging. In cities where many residents live alone, these ordinary encounters can be a quiet but important source of support."
+            },
+            {
+              "type": "paragraph",
+              "label": "I",
+              "text": "Green space can affect the economy. Homes near parks and tree-lined streets often sell for more than comparable homes elsewhere, and businesses may benefit from foot traffic and a more attractive setting. But rising property values can also push out the very residents who made a neighborhood vibrant. Cities therefore need policies—such as community land trusts and rent protections—to keep green improvements from becoming a driver of displacement."
+            },
+            {
+              "type": "paragraph",
+              "label": "J",
+              "text": "Access to green space is far from equal. In many cities, low-income neighborhoods and communities of color have fewer trees, smaller parks and longer distances to reach them. These same areas often suffer more from heat, pollution and flooding. Closing this gap is a matter of environmental justice, not just aesthetics, and it requires sustained public investment rather than one-off projects."
+            },
+            {
+              "type": "paragraph",
+              "label": "K",
+              "text": "Money is a constant constraint. Parks must be maintained: grass cut, paths repaired, toilets cleaned, trees pruned. When budgets tighten, maintenance is often the first item to be cut, and a neglected park can quickly become a place people avoid. Some cities are experimenting with partnerships between local government, nonprofits and residents, but such arrangements work best when they are transparent and fairly funded."
+            },
+            {
+              "type": "paragraph",
+              "label": "L",
+              "text": "Dense cities cannot always create large parks, so designers are finding ways to use small spaces. Pocket parks on vacant lots, green roofs, planted walls and schoolyards open to the public can bring nature within a few minutes' walk of many homes. The key is thoughtful design: shade, seating, safe paths and a clear sense of ownership. Small can be beautiful—and useful—when it is well planned."
+            },
+            {
+              "type": "paragraph",
+              "label": "M",
+              "text": "Children are among the biggest beneficiaries. Outdoor play supports physical development, creativity and social skills, and exposure to nature has been linked to better attention and mood. Yet in many cities, children's access to safe outdoor space has shrunk. Schoolyards that open after hours, traffic-calmed streets and nature-based playgrounds can give children room to move without long journeys."
+            },
+            {
+              "type": "paragraph",
+              "label": "N",
+              "text": "The relationship between parks and crime is often debated. Some studies find that well-maintained, well-used green spaces are associated with lower levels of certain crimes, while neglected or poorly lit areas can attract trouble. Design and management matter: clear sightlines, good lighting, regular activity and community involvement can make a park feel safe. Simply adding greenery is not enough."
+            },
+            {
+              "type": "paragraph",
+              "label": "O",
+              "text": "The lesson is that green space is a long-term commitment. Trees take years to mature, and parks need steady care, not just a ribbon-cutting ceremony. Cities that succeed tend to involve residents from the start, plan for maintenance and treat green infrastructure as part of the urban system rather than a luxury. In a warming, crowded world, that investment is likely to pay off many times over."
+            },
+            {
+              "type": "matchingStatements",
+              "items": [
+                {
+                  "number": 36,
+                  "text": "Green spaces can help reduce the risk of flooding."
+                },
+                {
+                  "number": 37,
+                  "text": "Trees can make streets cooler during heat waves."
+                },
+                {
+                  "number": 38,
+                  "text": "Some research connects parks with lower stress."
+                },
+                {
+                  "number": 39,
+                  "text": "Poorer neighborhoods often have less access to green space."
+                },
+                {
+                  "number": 40,
+                  "text": "Free outdoor space can encourage people to exercise."
+                },
+                {
+                  "number": 41,
+                  "text": "Small green areas can be valuable in dense cities."
+                },
+                {
+                  "number": 42,
+                  "text": "Networks of green spaces can help wildlife move through cities."
+                },
+                {
+                  "number": 43,
+                  "text": "Parks can create opportunities for neighbors to meet."
+                },
+                {
+                  "number": 44,
+                  "text": "A park can raise the value of nearby homes."
+                },
+                {
+                  "number": 45,
+                  "text": "Long-term maintenance and resident involvement are important."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cloze",
+          "heading": "Part III  Banked Cloze",
+          "instructions": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please write the corresponding letter for each blank.",
+          "blocks": [
+            {
+              "type": "wordBank",
+              "items": [
+                "A) absorb",
+                "B) constantly",
+                "C) crucial",
+                "D) decline",
+                "E) distraction",
+                "F) flexible",
+                "G) genuinely",
+                "H) highlight",
+                "I) memory",
+                "J) occasional",
+                "K) preserve",
+                "L) process",
+                "M) recall",
+                "N) recover",
+                "O) routine"
+              ]
+            },
+            {
+              "type": "clozePassage",
+              "text": "Sleep is [[26]] for learning. During sleep, the brain continues to [[27]] the experiences of the day, sorting them and strengthening the connections that support [[28]]. Researchers have found that even a short nap can help people [[29]] facts more accurately. In a world full of [[30]], protecting a regular sleep [[31]] is not a luxury but a necessity. Students who [[32]] stay up late before an exam may feel that they are working hard, yet their ability to [[33]] information may [[34]] under sleep pressure. The lesson is simple: if you [[35]] want to learn, you need to rest well. Teachers often remind students that a good night's sleep is part of revision, not a waste of time. Yet many teenagers treat sleep as something they can borrow against, like money, and pay back later. The research suggests that this bargain is a poor one."
+            }
+          ]
+        },
+        {
+          "id": "reading",
+          "heading": "Part IV  Reading Comprehension",
+          "instructions": "Directions: There are two passages in this section. Each passage is followed by some questions. For each question there are four suggested answers marked A), B), C) and D). Choose the best answer.",
+          "blocks": [
+            {
+              "type": "passage",
+              "text": "Artificial intelligence is moving from the laboratory into the clinic. Systems trained on thousands of medical images can detect signs of cancer, diabetic eye disease and other conditions with an accuracy that, in some studies, rivals that of experienced specialists. Hospitals are attracted by the promise of faster results, fewer routine tasks for doctors and, in some cases, earlier treatment for patients who might otherwise wait weeks for a diagnosis.\n\nSupporters argue that the technology should be seen as a tool rather than a rival. A well-designed system can scan images quickly and flag suspicious areas for a human expert to review. It does not get tired, and it can be used in places where specialists are scarce. In remote clinics, for example, an algorithm might help a general practitioner decide whether a patient needs to travel to a hospital.\n\nCritics raise two main concerns. The first is bias. If a system is trained mostly on images from one group of patients—say, older men in wealthy countries—it may perform poorly for women, younger people or patients in other regions. The second is the danger of overconfidence. A doctor may accept a machine's recommendation without asking enough questions, or a patient may assume that a computer's answer is always correct. Medicine involves uncertainty, context and conversation, and those are difficult to reduce to a score.\n\nMost researchers therefore describe the ideal model as a partnership. The machine handles the repetitive scanning; the doctor interprets the result, considers the patient's history and makes the final decision. Regulations are being developed to require clear information about how such systems were tested, who they were tested on, and how their performance is monitored after they are deployed. Training for doctors is also changing, with more emphasis on understanding data and on communicating uncertainty to patients.\n\nThe debate is not really about whether machines can be intelligent. It is about what kind of medicine we want: one that is faster and more consistent, but also one that remains attentive to the individual patient. Used carefully, AI may help doctors spend less time on routine work and more time on the human parts of care. Used carelessly, it may add a new layer of error and mistrust."
+            },
+            {
+              "type": "mcq",
+              "items": [
+                {
+                  "number": 46,
+                  "stem": "What is one reason hospitals are interested in AI diagnosis?",
+                  "options": [
+                    "A) It can replace all specialists.",
+                    "B) It may speed up results and reduce routine work.",
+                    "C) It can eliminate uncertainty in medicine.",
+                    "D) It is cheaper than training doctors."
+                  ]
+                },
+                {
+                  "number": 47,
+                  "stem": "What is the first concern raised by critics?",
+                  "options": [
+                    "A) Systems may be biased because of their training data.",
+                    "B) Systems are too expensive for remote clinics.",
+                    "C) Patients refuse to be examined by machines.",
+                    "D) Doctors are not interested in new technology."
+                  ]
+                },
+                {
+                  "number": 48,
+                  "stem": "What does the passage mean by \"partnership\"?",
+                  "options": [
+                    "A) Machines and doctors share the final decision equally.",
+                    "B) Machines scan and doctors make the final judgment.",
+                    "C) Patients and machines work together without doctors.",
+                    "D) Hospitals and technology companies share profits."
+                  ]
+                },
+                {
+                  "number": 49,
+                  "stem": "What are regulators being asked to require?",
+                  "options": [
+                    "A) That AI systems be tested only in wealthy countries.",
+                    "B) That hospitals stop using AI for cancer.",
+                    "C) That information about testing and monitoring be disclosed.",
+                    "D) That doctors stop communicating uncertainty."
+                  ]
+                },
+                {
+                  "number": 50,
+                  "stem": "What is the author's attitude toward AI in medicine?",
+                  "options": [
+                    "A) Complete rejection.",
+                    "B) Careful optimism.",
+                    "C) Indifference.",
+                    "D) Enthusiasm without reservations."
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "pageBreak"
+            },
+            {
+              "type": "passage",
+              "text": "Second-hand clothing used to be associated with necessity, or with the dusty shelves of charity shops. Today it is a fast-growing part of the fashion industry. Online resale platforms, social media influencers and concerns about waste have turned pre-owned clothes into a mainstream choice. For many young shoppers, buying second-hand is no longer a compromise; it is a way to find unique pieces, save money and reduce the environmental cost of fast fashion.\n\nThe appeal is easy to understand. New clothes require land, water, energy and chemicals, and the fashion industry is responsible for a significant share of global emissions. Resale extends the life of garments that already exist, which is usually better than producing more. It also offers access to brands that would otherwise be too expensive. A student can buy a designer coat at a fraction of its original price, and a seller can earn money from clothes they no longer wear.\n\nYet the picture is not as green as it first appears. Resale platforms often rely on shipping, packaging and returns, all of which have an environmental cost. Some researchers warn that the availability of cheap second-hand clothes may encourage people to buy more than they need, a phenomenon sometimes called the \"rebound effect\". There is also the question of quality: not every garment is made to last, and some items are quickly discarded again.\n\nFor consumers, the practical lessons are simple. The most sustainable purchase is usually the one you do not make. When you do buy, choose clothes that are well made, repair them when possible and keep them for longer. Resale is a useful part of the solution, but it cannot cancel out the environmental impact of an industry built on constant novelty. The real change will come from buying less and designing better—not just from moving the same consumption to a second-hand market."
+            },
+            {
+              "type": "mcq",
+              "items": [
+                {
+                  "number": 51,
+                  "stem": "Why is second-hand clothing becoming more popular?",
+                  "options": [
+                    "A) It is always cheaper than new clothes.",
+                    "B) It combines savings, uniqueness and environmental concerns.",
+                    "C) It is promoted only by luxury brands.",
+                    "D) It avoids all environmental costs."
+                  ]
+                },
+                {
+                  "number": 52,
+                  "stem": "What environmental benefit does resale offer?",
+                  "options": [
+                    "A) It extends the life of existing clothes.",
+                    "B) It eliminates shipping and packaging.",
+                    "C) It reduces the need for second-hand stores.",
+                    "D) It makes new clothes cheaper."
+                  ]
+                },
+                {
+                  "number": 53,
+                  "stem": "What is the \"rebound effect\" mentioned in the passage?",
+                  "options": [
+                    "A) People repair clothes more often.",
+                    "B) Cheap second-hand clothes may lead people to buy more.",
+                    "C) Resale platforms lower their prices.",
+                    "D) New clothes become more durable."
+                  ]
+                },
+                {
+                  "number": 54,
+                  "stem": "What does the author suggest consumers do?",
+                  "options": [
+                    "A) Buy as many second-hand clothes as possible.",
+                    "B) Avoid all online shopping.",
+                    "C) Buy less and choose well-made clothes.",
+                    "D) Replace old clothes every season."
+                  ]
+                },
+                {
+                  "number": 55,
+                  "stem": "What is the main idea of the passage?",
+                  "options": [
+                    "A) Resale is a perfect solution to fashion's environmental problems.",
+                    "B) Second-hand fashion is growing, but it is not a cure-all.",
+                    "C) Young people no longer care about new clothes.",
+                    "D) The fashion industry has solved its waste problem."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "translation",
+          "heading": "Part V  Translation",
+          "instructions": "Directions: Translate the following passage into English. You should write your answer on the answer sheet.",
+          "blocks": [
+            {
+              "type": "prompt",
+              "text": "中国茶文化源远流长。中国人不仅把茶当作一种饮品，也把它视为一种生活方式。泡茶、品茶的过程让人放慢脚步，与朋友交流。如今，越来越多的年轻人开始学习茶艺，希望在快节奏的生活中找到内心的平静。茶不仅是一种味道，更是一种待客之道和生活智慧。"
+            },
+            {
+              "type": "answerLines",
+              "count": 12,
+              "label": "Translation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocab-errors-01",
+      "kind": "vocab",
+      "title": "词汇巩固 · 错词文章 01",
+      "subtitle": "根据 2026-11-09 批改报告生成 · 12 个易错词",
+      "durationMinutes": 25,
+      "sections": [
+        {
+          "id": "vocab",
+          "heading": "Vocabulary in Context  ·  错词巩固",
+          "instructions": "Directions: Read the article carefully. Twelve words are highlighted with numbers. Write the Chinese meaning of each word as it is used in the article in the numbered table below, or in the right margin. Then submit for annotation checking.",
+          "blocks": [
+            {
+              "type": "vocabArticle",
+              "title": "Learning in a Distracted Age",
+              "note": "高亮并带编号的 12 个词是本次巩固词；请结合语境写出中文义，写在文后编号表或右侧留白。",
+              "targets": [
+                {
+                  "number": 1,
+                  "word": "distraction"
+                },
+                {
+                  "number": 2,
+                  "word": "crucial"
+                },
+                {
+                  "number": 3,
+                  "word": "absorb"
+                },
+                {
+                  "number": 4,
+                  "word": "process"
+                },
+                {
+                  "number": 5,
+                  "word": "memory"
+                },
+                {
+                  "number": 6,
+                  "word": "recall"
+                },
+                {
+                  "number": 7,
+                  "word": "decline"
+                },
+                {
+                  "number": 8,
+                  "word": "recover"
+                },
+                {
+                  "number": 9,
+                  "word": "preserve"
+                },
+                {
+                  "number": 10,
+                  "word": "highlight"
+                },
+                {
+                  "number": 11,
+                  "word": "constantly"
+                },
+                {
+                  "number": 12,
+                  "word": "genuinely"
+                }
+              ],
+              "text": "Every time a notification appears, it competes for our attention. In a world full of distraction, the ability to focus is crucial for learning. Yet attention is only the first step. To turn information into knowledge, we need to absorb it, process it and store it in memory. Without focus, even a clever study plan becomes a list of unfinished tasks.\n\nSleep plays an important role in learning. A good night's sleep helps the brain consolidate what we have learned, making it easier to recall facts later. Students who stay up late may feel productive, but their ability to remember often begins to decline. It is not a recording; it is rebuilt each time we use it, so rest and review both matter.\n\nRest is not the only factor. When we are tired, we need time to recover. A short walk, a quiet meal or a few minutes of silence can help. It is also important to preserve the habits that support learning: a regular sleep routine, a clear desk and a phone kept out of reach. These small choices protect our attention during busy weeks.\n\nTeachers can highlight the most important ideas in a lesson, but students must do more than copy them. They should ask questions, make notes in their own words and explain ideas to a friend. Those who constantly switch between tasks may finish more quickly, but they rarely learn deeply. If you genuinely want to learn, protect your attention and give your brain time to rest."
+            },
+            {
+              "type": "pageBreak"
+            },
+            {
+              "type": "vocabTable",
+              "title": "中文注解表",
+              "items": [
+                {
+                  "number": 1,
+                  "word": "distraction"
+                },
+                {
+                  "number": 2,
+                  "word": "crucial"
+                },
+                {
+                  "number": 3,
+                  "word": "absorb"
+                },
+                {
+                  "number": 4,
+                  "word": "process"
+                },
+                {
+                  "number": 5,
+                  "word": "memory"
+                },
+                {
+                  "number": 6,
+                  "word": "recall"
+                },
+                {
+                  "number": 7,
+                  "word": "decline"
+                },
+                {
+                  "number": 8,
+                  "word": "recover"
+                },
+                {
+                  "number": 9,
+                  "word": "preserve"
+                },
+                {
+                  "number": 10,
+                  "word": "highlight"
+                },
+                {
+                  "number": 11,
+                  "word": "constantly"
+                },
+                {
+                  "number": 12,
+                  "word": "genuinely"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

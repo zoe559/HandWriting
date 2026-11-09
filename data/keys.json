@@ -1,0 +1,258 @@
+{
+  "mock-a": {
+    "paperId": "mock-a",
+    "title": "CET-6 模拟卷 A · 文字部分",
+    "itemCount": 30,
+    "objective": {
+      "26": "C",
+      "27": "L",
+      "28": "I",
+      "29": "M",
+      "30": "E",
+      "31": "O",
+      "32": "B",
+      "33": "A",
+      "34": "D",
+      "35": "G",
+      "36": "F",
+      "37": "D",
+      "38": "B",
+      "39": "J",
+      "40": "C",
+      "41": "L",
+      "42": "G",
+      "43": "H",
+      "44": "I",
+      "45": "O",
+      "46": "B",
+      "47": "A",
+      "48": "B",
+      "49": "C",
+      "50": "B",
+      "51": "B",
+      "52": "A",
+      "53": "B",
+      "54": "C",
+      "55": "B"
+    },
+    "explanations": {
+      "26": "be crucial for 是固定搭配，表示“对……至关重要”。",
+      "27": "process the experiences 表示“处理白天的经历”，与后面的 sorting/strengthening 呼应。",
+      "28": "support memory 指睡眠巩固记忆；memory 与前句 learning 对应。",
+      "29": "recall facts 表示“回忆事实”；help people recall 搭配自然。",
+      "30": "a world full of distraction 指充满干扰的世界；distraction 为不可数用法。",
+      "31": "a regular sleep routine 表示“规律的睡眠习惯”。",
+      "32": "constantly 修饰 stay up late，表示“经常熬夜”。",
+      "33": "absorb information 表示“吸收信息”。",
+      "34": "may decline 表示“可能下降”；decline 作不及物动词。",
+      "35": "genuinely want to learn 表示“真心想学”；genuinely 修饰 want。",
+      "36": "F 段：soil and plants absorb rainwater, slowing the rush into drains，并提到 reduce the risk of flash floods。",
+      "37": "D 段：Shade lowers surface temperatures，并说这是 heat waves 期间的 public-health measure。",
+      "38": "B 段：a growing body of research links access to green space with better mental health，并提到 lower stress。",
+      "39": "J 段：low-income neighborhoods ... have fewer trees, smaller parks and longer distances to reach them。",
+      "40": "C 段：free outdoor space ... more likely to meet basic exercise guidelines。",
+      "41": "L 段：Dense cities ... pocket parks ... small spaces ... Small can be beautiful—and useful。",
+      "42": "G 段：a network of gardens, riverbanks and street trees can form corridors that allow wildlife to move through the city。",
+      "43": "H 段：Parks are social places ... bring together people who might otherwise never meet。",
+      "44": "I 段：Homes near parks and tree-lined streets often sell for more。",
+      "45": "O 段：green space is a long-term commitment ... involve residents from the start, plan for maintenance。",
+      "46": "第一段：faster results, fewer routine tasks for doctors。",
+      "47": "第三段：The first is bias ... trained mostly on images from one group of patients。",
+      "48": "第四段：The machine handles the repetitive scanning; the doctor ... makes the final decision。",
+      "49": "第四段：Regulations ... require clear information about how such systems were tested ... and how their performance is monitored。",
+      "50": "末段：Used carefully, AI may help ... 但紧接 Used carelessly, it may add ... 说明作者是谨慎乐观。",
+      "51": "第一段：unique pieces, save money and reduce the environmental cost of fast fashion。",
+      "52": "第二段：Resale extends the life of garments that already exist。",
+      "53": "第三段：cheap second-hand clothes may encourage people to buy more than they need, a phenomenon sometimes called the 'rebound effect'。",
+      "54": "末段：The most sustainable purchase is usually the one you do not make ... choose clothes that are well made ... keep them for longer。",
+      "55": "全文既肯定 resale 的增长和好处，又指出 shipping、rebound effect、quality 等问题，结论是 buy less and design better，因此不是万能药。"
+    },
+    "sections": {
+      "writing": {
+        "prompt": "Deep reading in a distracted age",
+        "sample": "Notifications arrive every few minutes, and each one invites us to switch tasks. In such an environment, deep reading—the ability to stay with a demanding text for more than a few minutes—is becoming both rarer and more valuable. It trains attention, helps us understand complex ideas, and gives us space to think independently rather than react to whatever appears on the screen.\n\nStudents can protect the habit in simple ways. First, set aside a fixed period each day for reading with the phone in another room. Second, choose texts that require effort, and take brief notes to stay engaged. Third, treat reading as a conversation: ask questions, mark passages, and summarize what you have read. These practices may feel slow at first, but they build the mental endurance that a distracted world is quietly eroding.",
+        "outline": [
+          "开头：通知不断打断注意力，深度阅读因此更稀缺、更有价值。",
+          "主体：深度阅读训练注意力、帮助理解复杂观点、留出独立思考空间。",
+          "方法：固定阅读时段并远离手机；选择有难度的文本；做简短笔记、提问与复述。",
+          "结尾：这些看似慢的习惯，能恢复被碎片化生活侵蚀的专注力。"
+        ],
+        "rubric": "15 分制练习评分：任务回应 5 分（是否说明重要性并给出方法）、组织 4 分（结构清晰、衔接自然）、语言 6 分（语法、词汇、句式；少量错误不严重影响理解可给较高分）。"
+      },
+      "translation": {
+        "reference": "Chinese tea culture has a long history. For Chinese people, tea is not only a beverage but also a way of life. The process of making and tasting tea encourages people to slow down and communicate with friends. Today, more and more young people are learning the art of tea, hoping to find inner peace in a fast-paced life. Tea is not just a flavor; it is also a way of welcoming guests and a kind of life wisdom.",
+        "points": [
+          "源远流长：has a long history / dates back centuries",
+          "不仅……也：not only ... but also ...",
+          "生活方式：a way of life",
+          "泡茶、品茶：making and tasting tea / brewing and appreciating tea",
+          "放慢脚步：slow down",
+          "与朋友交流：communicate / talk with friends",
+          "越来越多：more and more / a growing number of",
+          "茶艺：the art of tea / tea ceremony",
+          "快节奏的生活：a fast-paced life",
+          "内心的平静：inner peace / inner calm",
+          "待客之道：a way of welcoming guests / hospitality",
+          "生活智慧：life wisdom / wisdom for living"
+        ],
+        "rubric": "15 分制练习评分：内容忠实 7 分（信息完整、无明显漏译/误译）、语言准确 5 分（语法、搭配、拼写）、流畅得体 3 分（衔接、语域、可读性）。"
+      }
+    },
+    "gradingNotes": [
+      "客观题按字母判分；大小写不敏感。若学生在选词填空处写单词而非字母，单词正确可视为正确，但需在报告中注明。",
+      "中文注解按“正确 / 部分正确 / 错误 / 无法辨认”四档判定；无法辨认时不要猜，标“？”。",
+      "手写字母若同时像两个选项（如 B/D），先结合笔画描述，仍不确定则在报告中请学生确认。",
+      "翻译/写作为练习参考分，不是官方 CET-6 分数。"
+    ]
+  },
+  "vocab-errors-01": {
+    "paperId": "vocab-errors-01",
+    "title": "词汇巩固 · 错词文章 01",
+    "kind": "vocab-annotation",
+    "items": [
+      {
+        "number": 1,
+        "word": "distraction",
+        "context": "In a world full of distraction",
+        "accepted": [
+          "分心",
+          "干扰",
+          "使人分心的事物",
+          "分心物"
+        ],
+        "note": "名词；此处指干扰/使人分心的事物。"
+      },
+      {
+        "number": 2,
+        "word": "crucial",
+        "context": "the ability to focus is crucial for learning",
+        "accepted": [
+          "至关重要的",
+          "关键的",
+          "对……至关重要"
+        ],
+        "note": "形容词；be crucial for。"
+      },
+      {
+        "number": 3,
+        "word": "absorb",
+        "context": "we need to absorb it",
+        "accepted": [
+          "吸收",
+          "理解",
+          "消化"
+        ],
+        "note": "动词；吸收/理解信息。写“到手”算错误（那是 obtain/acquire）。"
+      },
+      {
+        "number": 4,
+        "word": "process",
+        "context": "process it",
+        "accepted": [
+          "处理",
+          "加工"
+        ],
+        "note": "此处作动词“处理/加工”。只写名词“过程”算部分正确；要说明语境义。"
+      },
+      {
+        "number": 5,
+        "word": "memory",
+        "context": "store it in memory",
+        "accepted": [
+          "记忆",
+          "记忆力"
+        ],
+        "note": "名词；store in memory = 存入记忆。"
+      },
+      {
+        "number": 6,
+        "word": "recall",
+        "context": "easier to recall facts later",
+        "accepted": [
+          "回忆",
+          "回想起",
+          "记起",
+          "回忆起"
+        ],
+        "note": "动词；recall facts = 回忆事实。不要和 recover（恢复）混。"
+      },
+      {
+        "number": 7,
+        "word": "decline",
+        "context": "their ability to remember often begins to decline",
+        "accepted": [
+          "下降",
+          "衰退",
+          "减少",
+          "变差"
+        ],
+        "note": "动词；下降/衰退。"
+      },
+      {
+        "number": 8,
+        "word": "recover",
+        "context": "we need time to recover",
+        "accepted": [
+          "恢复",
+          "康复",
+          "缓过来"
+        ],
+        "note": "动词；恢复。"
+      },
+      {
+        "number": 9,
+        "word": "preserve",
+        "context": "preserve the habits that support learning",
+        "accepted": [
+          "保持",
+          "保存",
+          "保护",
+          "维持"
+        ],
+        "note": "动词；保持/保存。写“坚持”算错误（那是 persist/insist）。"
+      },
+      {
+        "number": 10,
+        "word": "highlight",
+        "context": "Teachers can highlight the most important ideas",
+        "accepted": [
+          "强调",
+          "突出",
+          "使显著",
+          "标出重点"
+        ],
+        "note": "动词；强调/突出。只写“高亮”算部分正确（偏界面用语）。"
+      },
+      {
+        "number": 11,
+        "word": "constantly",
+        "context": "Those who constantly switch between tasks",
+        "accepted": [
+          "不断地",
+          "经常地",
+          "持续地",
+          "频繁地"
+        ],
+        "note": "副词；不断地/经常。"
+      },
+      {
+        "number": 12,
+        "word": "genuinely",
+        "context": "If you genuinely want to learn",
+        "accepted": [
+          "真正地",
+          "确实",
+          "真心地"
+        ],
+        "note": "副词；此处是“真正地/真心地”。只写“真诚地”可算部分正确，但语境义应说明。"
+      }
+    ],
+    "gradingNotes": [
+      "这是词汇注解题，没有 A/B/C/D 客观分；按 12 个词逐条判“正确 / 部分正确 / 错误 / 无法辨认”。",
+      "判定标准是“文章语境中的意思”，不是词典第一义；例如 process 这里必须是动词“处理”，写“过程”算部分正确。",
+      "近义表达可接受；例如 absorb 写“吸收/理解/消化”、preserve 写“保持/保存”、highlight 写“强调/突出”都算正确。",
+      "如果学生把中文写在文章右侧留白而不是编号表，用文章里的编号定位；编号表为空不等于没作答。",
+      "字迹看不清时标“无法辨认”，不要猜；可对照 article 的 context 句。"
+    ]
+  }
+}
